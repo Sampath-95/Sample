@@ -4,4 +4,4 @@ import streamlit as st
 
 st.balloons()
 
-st.success('Wish you a happy and eco friendly Diwali🪔')
+st.success('🪔Wishing you a happy and prosperous Diwali🪔')
